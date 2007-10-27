@@ -1,0 +1,6 @@
+# $Id$
+
+^Makefile$
+^\.cvsignore$
+^\.svn$
+^\.DS_Store$
